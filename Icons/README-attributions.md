@@ -12,3 +12,9 @@ Icon made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">
 ![dasboard](./compressedFile.png)
 
 Icon made by <a href="https://www.flaticon.com/authors/payungkead" title="Payungkead">Payungkead</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+
+## Command-line terminal prompt
+
+![dasboard](./prompt.png)
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
