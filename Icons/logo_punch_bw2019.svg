@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 556.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_387);
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_372);
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_403);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_387" data-name="Dégradé sans nom 387" x1="1797.79" y1="-1207.86" x2="1591.84" y2="-1586.66" gradientTransform="translate(1868 -1035.9) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3e3e"/>
+      <stop offset="0.5" stop-color="#acacac"/>
+      <stop offset="1" stop-color="#e3e3e3"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_372" data-name="Dégradé sans nom 372" x1="1433.77" y1="-1202.2" x2="1868" y2="-1202.2" gradientTransform="translate(1868 -1035.9) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3e3e"/>
+      <stop offset="0.5" stop-color="#acacac"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_403" data-name="Dégradé sans nom 403" x1="1701" y1="-1447" x2="1350.85" y2="-1215.62" gradientTransform="translate(1868 -1035.9) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3e3e"/>
+      <stop offset="0.5" stop-color="#acacac"/>
+      <stop offset="1" stop-color="#ababab"/>
+    </linearGradient>
+  </defs>
+  <title>logo_punch_bw2019</title>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <g>
+        <path class="cls-1" d="M34.3,442.2,215.7,547a68.9,68.9,0,0,0,68.6,0l117-67.6A183.2,183.2,0,0,1,136.4,342.7a190.4,190.4,0,0,1-1.9-26.3A183.2,183.2,0,0,1,250.4,146,183.2,183.2,0,0,0,0,313.6v69.2A68.6,68.6,0,0,0,34.3,442.2Z"/>
+        <path class="cls-2" d="M70,172.4c31.1-24.5,64.9-36.4,107.6-36.4,23.8,0,51.3,8.4,72.1,16.6,67.9,26.9,83.7,87.2,83.7,164.6,0,7.8-4.2,12-6.9,15.1-1,1.1,5.4-.4,6.9-.8,48.2-11.4,100.8-74.3,100.8-131.6a189.4,189.4,0,0,0-1.8-26.3A182.9,182.9,0,0,0,361.7,53.9l-39.8-23L284.3,9.2a68.4,68.4,0,0,0-68.6,0L169.8,35.7,149.9,47.2,34.3,113.9A68.7,68.7,0,0,0,0,173.3V313.6A182.6,182.6,0,0,1,70,172.4Z"/>
+        <path class="cls-3" d="M136.4,342.7A183.2,183.2,0,0,0,401.3,479.4l15.4-8.9,49-28.3A68.6,68.6,0,0,0,500,382.8V173.3a68.7,68.7,0,0,0-34.3-59.4l-104-60c37.5,28.4,59.5,71,66.5,119.7a189.3,189.3,0,0,1,1.9,26.3c.6,51.9-37.1,97.7-82.4,126.8,6.6-16.1,10.1-34.7,10.1-55.1,0-69.1-38.9-119-108-119s-108,45.9-108,115Z"/>
+        <path class="cls-4" d="M39.8,417,233.4,529.9a32.1,32.1,0,0,0,32,.1L459.9,418.7A31.8,31.8,0,0,0,476,391.1l.9-224.1A31.9,31.9,0,0,0,461,139.2L267.4,26.3A32.9,32.9,0,0,0,251.3,22a32.1,32.1,0,0,0-15.9,4.2L40.9,137.5a32.1,32.1,0,0,0-16.1,27.6l-.9,224.2A31.7,31.7,0,0,0,39.8,417Zm-3-16.6,96.4-53.2V459.9L44.8,408.4A22.7,22.7,0,0,1,36.8,400.4ZM455,410,260.4,521.3a22,22,0,0,1-22-.1l-47.1-27.4V265.9a58.2,58.2,0,1,1,61.2,58v58.2a116,116,0,0,0,91.4-48.4l119.5,67.7A21.7,21.7,0,0,1,455,410Zm1-262.2a21.9,21.9,0,0,1,10.9,19.1L466,391v.4l-116.5-66a116.4,116.4,0,0,0-94.8-175.7V32.3a21.5,21.5,0,0,1,7.7,2.7ZM34.8,165.2a22,22,0,0,1,11-19L240.4,34.9a23.5,23.5,0,0,1,4.3-1.9V149.7A116.3,116.3,0,0,0,133.3,259.8h-.1v75.9L33.9,390.5v-1.2Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
